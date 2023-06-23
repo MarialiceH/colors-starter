@@ -25,7 +25,7 @@ header {
 }
 
 
-/*---------- CONTENT AREA ----------*/
+/*---------- CONTENT AREA iPhone Pink----------*/
 
 .col-3 {
   width: 100%;
@@ -55,7 +55,7 @@ footer {
 }
 
 
-/*---------- TABLET ----------*/
+/*---------- TABLET Green----------*/
 /* Change the background colors below */
 
 @media (min-width: 768px) {
@@ -65,14 +65,17 @@ footer {
 
   #column-1 {
     background-color: greenyellow;
+    width: 100%;
   }
 
   #column-2 {
     background-color: springgreen;
+    width: 100%;
   }
 
   #column-3 {
     background-color: yellow;
+    width: 100%;
   }
 
   footer {
@@ -82,7 +85,7 @@ footer {
 
 
 
-/*---------- Desktops ----------*/
+/*---------- Desktops Red ----------*/
 @media (min-width: 1200px) {
   header {
     background-color: red;
@@ -90,14 +93,17 @@ footer {
 
   #column-1 {
     background-color: maroon;
+    width: 33.333%;
   }
 
   #column-2 {
     background-color: darkred;
+    width: 33.333%;
   }
 
   #column-3 {
     background-color: orangered;
+    width: 33.333%;
   }
 
   footer {
